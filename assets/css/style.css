@@ -33,7 +33,7 @@ body{
     align-items: center;
     
 }
-@media (max-width:540px){
+@media (max-width:565px){
     .head__nav{
         display: none;
     }
